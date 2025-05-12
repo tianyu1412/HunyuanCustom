@@ -17,6 +17,7 @@
 <div align="center">
   <a href="https://huggingface.co/tencent/HunyuanCustom"><img src="https://img.shields.io/static/v1?label=HunyuanVideo&message=HuggingFace&color=yellow"></a> &ensp;
 </div>
+
 -----
 
 
